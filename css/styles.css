@@ -4,7 +4,11 @@ body {
 }
                       
 h1, h2 {
+<<<<<<< HEAD
     color : blue;
+=======
+    color : black;
+>>>>>>> feature/product-cart
     text-align : center;
 }
 
